@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HumboShot
-- 👀 I’m interested in making small tools to help myself
-- 🌱 I’m currently learning all sorts of things
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 📝 Currently working on an private Android app and C# API
 
 <!---
 HumboShot/HumboShot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
