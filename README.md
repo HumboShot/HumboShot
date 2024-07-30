@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HumboShot
-- 📝 Currently working on an private Android app and C# API
+- 📝 Currently trying out game dev in Godot
+- 🚧 Keeping a private backend and app alive for use in small projects
 
 <!---
 HumboShot/HumboShot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
