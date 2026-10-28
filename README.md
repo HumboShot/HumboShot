@@ -5,7 +5,6 @@ Developer from Denmark 🇩🇰. I mostly build small tools for my Twitch stream
 - 🎙️ Building overlays, chat games and bots for my Twitch stream
 - 🎵 Showing what I listen to everywhere, from Discord to OBS
 - 📱 Writing a native Android client for Koillection
-- 🎮 Trying out game dev in Godot on the side
 
 🌐 [humboshot.com](https://www.humboshot.com)
 
@@ -21,7 +20,7 @@ Developer from Denmark 🇩🇰. I mostly build small tools for my Twitch stream
 
 ### 🧰 Tools I use
 
-C# · .NET · Kotlin · JavaScript · Python · Godot · OBS · Streamer.bot
+C# · .NET · Kotlin · JavaScript · OBS · Streamer.bot
 
 <!---
 HumboShot/HumboShot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
